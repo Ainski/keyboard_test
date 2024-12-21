@@ -1,0 +1,8 @@
+
+*** Running vivado
+    with args -log keyboard_top.vdi -applog -m64 -messageDb vivado.pb -mode batch -source keyboard_top.tcl -notrace
+
+
+*** Running vivado
+    with args -log keyboard_top.vdi -applog -m64 -messageDb vivado.pb -mode batch -source keyboard_top.tcl -notrace
+
